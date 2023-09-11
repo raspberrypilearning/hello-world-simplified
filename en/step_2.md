@@ -86,7 +86,7 @@ The comma `,` is next to the <kbd>M</kbd>.
 title: Debug
 ---
 
-If you get an error then check your code really carefully. Check there are single quotes around `Hello`so Python knows it is meant to be text.
+If you get an error then check your code really carefully. Check there are single quotes around `Hello` so Python knows it is meant to be text.
 
 ![The Code Editor with missing single quotes and error 'NameError: name 'Hello' is not defined on line 18 in main.py.](images/hello_error.png)
 

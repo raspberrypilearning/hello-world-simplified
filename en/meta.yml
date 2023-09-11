@@ -11,7 +11,7 @@ last_tested: "2021-10-06"
 steps:
   - title: You will make
   - title: Say hello
-  - title: Print 🌍🌎🌏
+  - title: Print variables
   - title: Sums and dates
     completion:
       - engaged

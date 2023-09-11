@@ -1,4 +1,4 @@
-## Print 🌍🌎🌏
+## Print variables
 
 A **variable** is used to store values such as text or numbers. Choosing a sensible name for a variable makes it easier for you to remember what it is for.
 
