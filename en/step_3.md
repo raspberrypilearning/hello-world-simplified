@@ -1,4 +1,4 @@
-## Using variables
+## Print 🌍🌎🌏
 
 A **variable** is used to store values such as text or numbers. Choosing a sensible name for a variable makes it easier for you to remember what it is for.
 
@@ -33,7 +33,7 @@ print('Hello', world)
 --- collapse ---
 
 ---
-title: **Tip for using print():** 
+title: Tip for using print()
 ---
 
 `'Hello'` is a text string because it has single quotes around it, whereas `world` is a variable so the value stored in it will be printed. 
@@ -51,7 +51,7 @@ title: **Tip for using print():**
 --- collapse ---
 
 ---
-title: **Did the editor show an error?:** 
+title: Did the editor show an error
 ---
 Make sure that you have added a comma between the items in `print()` and that you have spelled `world` correctly.
 
@@ -94,7 +94,7 @@ Make sure you check carefully for brackets, quotes, commas, and correct spelling
 
 --- collapse ---
 ---
-title: **Tip for writing programs:**
+title: Tip for writing programs
 ---
  It's a good idea to run your code after every change so you can fix problems quickly.
 

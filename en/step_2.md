@@ -83,7 +83,7 @@ The comma `,` is next to the <kbd>M</kbd>.
 --- collapse ---
 
 ---
-title: **Debug:** 
+title: Debug
 ---
 
 If you get an error then check your code really carefully. Check there are single quotes around `Hello`so Python knows it is meant to be text.
