@@ -12,9 +12,10 @@ steps:
   - title: You will make
   - title: Say hello
   - title: Print variables
-  - title: Sums and dates
+  - title: Calculating sums
     completion:
       - engaged
+  - title: Using date and time
   - title: Roll a dice
   - title: Sentence starter
     completion:
