@@ -96,7 +96,8 @@ Make sure you check carefully for brackets, quotes, commas, and correct spelling
 ---
 title: Tip for writing programs
 ---
- It's a good idea to run your code after every change so you can fix problems quickly.
+
+It's a good idea to run your code after every change so you can fix problems quickly.
 
 --- /collapse ---
 
