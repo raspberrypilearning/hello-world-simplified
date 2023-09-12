@@ -33,7 +33,7 @@ print('Hello', world)
 --- collapse ---
 
 ---
-title: Tip for using print()
+title: Tip for using print
 ---
 
 `'Hello'` is a text string because it has single quotes around it, whereas `world` is a variable so the value stored in it will be printed. 
@@ -53,6 +53,7 @@ title: Tip for using print()
 ---
 title: Did the editor show an error
 ---
+
 Make sure that you have added a comma between the items in `print()` and that you have spelled `world` correctly.
 
 This example is missing the comma `,`. It's small but very important!
