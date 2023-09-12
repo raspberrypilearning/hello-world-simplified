@@ -54,7 +54,7 @@ print('Hello')
 
 --- collapse ---
 ---
-title: **Tip for using print():** 
+title: Tip for using print():
 ---
 
 When you type an opening bracket `(` or opening apostrophe `'` the code editor will automatically add a closing bracket `)` or closing apostrophe`'`:
