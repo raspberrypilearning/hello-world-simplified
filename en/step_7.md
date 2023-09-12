@@ -22,8 +22,6 @@ def roll_dice():
 
 --- /code ---
 
-**Tip** You can use `star` or `heart` instead of `fire` if you prefer, by creating your own emoji variables.
-
 --- /task ---
 
 --- task ---

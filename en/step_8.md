@@ -31,21 +31,26 @@ print('I\'d like to make ... with', python)
 
 --- /code ---
 
+--- /task ---
+
+--- collapse ---
+
+---
+title: More print tips
+---
+
 **Tip:** Each use of `print` adds a line inbetween. 
 
 **Tip:** If you need to print an apostrophe `'` then you need to put a backslash `\` before it so Python knows it's part of the text. 
 
 **Tip:** Add a `#` at the beginning of a line to turn it into a comment.
 
---- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-
-The <span style="color: #0faeb0">yellow heart emoji 💛</span> is often used to show friendship and happiness.</p>
+--- /collapse ---
 
 --- task ---
 
-What message would you send to a friend to cheer them up? Which emoji would you choose?
+Which emoji would you choose in a message to a friend to cheer them up? 
 
 Scroll to the **emoji** section in the code editor to see the emojis and example variables that you can use. Copy the ones you choose and save them to a variable or add them directly to your code.
 
