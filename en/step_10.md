@@ -1,20 +1,71 @@
-## What next?
+## Upgrade your project
 
-If you are following the [Introduction to Python](https://projects.raspberrypi.org/en/raspberrypi/python-intro) pathway, you can move on to the [Target practice](https://projects.raspberrypi.org/en/projects/target-practice) project. In this project, you will draw a target then make an archery game that shoots arrows to score points. 
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+Add more to your project. There are more emojis to choose from.
+  </div>
+<div>
 
---- print-only ---
+![A longer project in the output area with more text, emoji, and inputs.](images/upgrade_ideas.png){:width="300px"} 
 
-![An archery target with a hit point on the outer circle. The text 'You hit the outer circle, 50 points!' is displayed underneath](images/blue-points.png){:width="640px"}
+</div>
+</div>
 
---- /print-only ---
+You could:
++ Use `print` with different text and emojis
++ Use `input` to get values from the user and store them as variables, then do sums with the variables
++ Write more functions to organise your code
++ Use `#` to add comments to your code
 
---- no-print ---
+Scroll to the **emoji** section in the code editor to see the emojis and example variables that you can use. Copy the ones you choose and save them to a variable or add them directly to your code.
 
-Click the **Run** button to view an example of this project.
+**Tip:** To add emojis, find the comment # Emojis to copy and paste into your code. Copy the emojis you want to use then paste them into your code.
 
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/target-practice-solution" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe>
+📅🕒🎨🎮🔬🎉🕶️🎲🦄🚀💯⭐💛 😃😜❤️📚⚽🎾👟♻️🌳🔥✨🥺🌈
 
---- /no-print ---
+[[[choose-an-emoji]]]
 
-If you want to have more fun exploring Python, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=python).
+Here's an example function that asks about hobbies:
+
+--- code ---
+---
+language: python
+filename: main.py
+---
+
+# Put code to run under here    
+def hobbies():   
+    hobby = input('What do you like?')   
+    print('That sounds', fun)  # You will need to create an emoji variable called 'fun'
+    print('You could make a', python, 'project about', hobby) 
+
+--- /code ---
+
+**Tip:** Don't forget you will need to call your function as well as define it.
+
+You can use `input` to make your project wait for the user to tap <kbd>Enter</kbd> at any point in this project.
+
+--- code ---
+---
+language: python
+filename: main.py
+---
+
+roll_dice()
+
+input()  # Wait for the user to tap Enter
+
+hobbies()  # Calls the hobbies function
+
+--- /code ---
+
+--- collapse ---
+---
+title: Completed project
+---
+
+You can view the [completed project here](https://editor.raspberrypi.org/en/projects/hello-world-solution){:target="_blank"}.
+
+--- /collapse ---
+
+--- save ---

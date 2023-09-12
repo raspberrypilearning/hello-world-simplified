@@ -17,6 +17,7 @@ steps:
       - engaged
   - title: Using date and time
   - title: Roll a dice
+  - title: Use an emoji
   - title: Sentence starter
     completion:
       - internal
