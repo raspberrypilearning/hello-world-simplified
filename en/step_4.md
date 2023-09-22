@@ -8,7 +8,7 @@
 </div>
 </div>
 
-In Python you can work with numbers and dates. You can use maths operators to do sums:
+In Python you can work with numbers and dates. You can use arithmetic operators to do sums:
 
 | + | add |   
 | - | subtract |   
@@ -27,7 +27,6 @@ Add another two `print()` lines to your code including a sum for Python to calcu
 --- code ---
 ---
 language: python
-filename: main.py
 line_numbers: true
 line_number_start: 18
 line_highlights: 20-21
@@ -48,7 +47,7 @@ print(230 * 5782 ** 2 / 23781)  # Print the result of the sum
 title: Tip on using comments
 ---
 
-Lines beginning with a `#` are <span style="color: #0faeb0">**comments**</span>. You don't need to type the comments, they are just there to help you understand the code. Just type the code before the `#`.
+Setences beginning with a `#` are <span style="color: #0faeb0">**comments**</span>. You don't need to type the comments, they are just there to help you understand the code.
 
 --- /collapse ---
 

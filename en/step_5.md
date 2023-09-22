@@ -1,6 +1,6 @@
 ## Using date and time
 
-The line `from datetime import *` at the top of the **main.py** tab includes a library with helpful functions for getting the current date and time.
+The line of code `from datetime import *` includes a library with helpful functions to get the current date and time.
 
 --- task ---
 
@@ -11,7 +11,6 @@ Get the current date and time by using the `now()` function from the `datetime` 
 --- code ---
 ---
 language: python
-filename: main.py
 line_numbers: true
 line_number_start: 20
 line_highlights: 22
@@ -43,7 +42,7 @@ You can also switch between colour modes, click on the **Light & Dark** buttons 
 
 --- task ---
 
-**Test:** Run your code a couple of times to see the time update.
+**Test:** Run your code two or three times to see the time update.
 
 **Debug:** Check that you have a fullstop `.` between `datetime` and `now`. Check all the punctuation carefully.
 

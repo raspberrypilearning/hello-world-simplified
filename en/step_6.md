@@ -20,12 +20,13 @@ In Python you **call** a **function()** to perfom an action. You have already us
 
 Functions need to be defined before you can call them. Look for the comment in the **main.py** file that says `# Function definitions`.
 
-Define a new function called `roll_dice()` that uses the `randint()` function from the `random` library, to generate a random 'integer' (whole number) from 1 to 6 and output it to the screen.
+From the `random` library, define a new function called `roll_dice()` that uses the `randint()` function . 
+
+Generate a random 'integer' (whole number) from 1 to 6 and output it to the screen.
 
 --- code ---
 ---
 language: python
-filename: main.py
 line_numbers: true
 line_number_start: 15
 line_highlights: 16-17
@@ -104,6 +105,6 @@ roll_dice()  # Call the roll dice function
 
 --- task ---
 
-**Test:** Run your project several times to see the random dice roll each time. 
+**Test:** Run your code several times to see the random dice roll each time. 
 
 --- /task ---

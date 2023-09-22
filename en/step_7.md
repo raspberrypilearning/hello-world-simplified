@@ -26,7 +26,7 @@ def roll_dice():
 
 --- task ---
 
-**Test:** Test your project a few times. Make sure you understand how the code works. 
+**Test:** Test your code a few times. Each time a random dice number is generated, the matching number of fire emojis are displayed. 
 
 --- /task ---
 
@@ -38,11 +38,14 @@ Upgrade your dice so that the user can choose the maximum number.
 
 The `input()` function asks the user a question and then returns their answer.
 
-**Add** code to ask the user for the biggest number on their dice and then save the result in a variable called `max` and `print` the number chosen into the output area: 
+**Add** code to ask the user for the biggest number on their dice. 
++ Save the result in a variable called `max`.
++ `print` the number chosen into the output area.
 
-Change your `roll` variable code to use `max` as the maximum value for `randint` when it generates a random number. 
+Change your `roll` variable code to use `max` as the maximum value for `randint`. 
 
-When you get input from the user, Python treats it as text. But, `randint` needs an 'integer' (a positive whole number). The `int` function turns the user input into an integer.
+When you get input from the user, Python treats it as text. 
+But, `randint` needs an 'integer' (a positive whole number). The `int` function turns the `max` into an integer.
 
 --- code ---
 ---
@@ -69,7 +72,7 @@ To print an apostrophe `'` in a word like `That's`, put a backslash `\` before i
   
 --- task ---
 
-**Test:** Run your project. When the program reaches the `input` line, it will wait for you to enter a response before continuing. Type your response and then press <kbd>Enter</kbd>, this will allow the program to collect your response. Try it again with a different `input` number. 
+**Test:** Run your code. When the program reaches the `input` line, it will wait for you to enter a response before continuing. Type your response and then press <kbd>Enter</kbd>, this will allow the program to collect your response. Try it again with a different `input` number. 
 
 --- /task ---
 

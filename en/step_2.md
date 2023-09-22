@@ -15,12 +15,12 @@ Open the [Hello 🌍🌎🌏 starter project](https://editor.raspberrypi.org/en/
 
 ![The code editor with project starter code on the left in the code area. On the right is the blank output area.](images/starter_project.png)
 
-If you have a Raspberry Pi account, you can click on the **Save** button to save a copy to your **Projects**.
+If you have a Raspberry Pi account, click on the **Save** button to save a copy to your **Projects**.
 
 --- /task ---
 
 
-### Print hello
+### Print Hello
 
 In Python, `print()` outputs text (words or numbers) to the screen.
 
@@ -28,7 +28,7 @@ In Python, `print()` outputs text (words or numbers) to the screen.
 
 Find the `# Put code to run below here` line.
 
-Click below that line. The flashing `|` is the cursor and shows where you will type.
+The flashing `|` is the cursor. It shows where you will type.
 
 --- /task ---
 
@@ -39,7 +39,6 @@ Type the code to `print()` Hello to the screen:
 --- code ---
 ---
 language: python
-filename: main.py
 line_numbers: true
 line_number_start: 17
 line_highlights: 18
@@ -57,7 +56,8 @@ print('Hello')
 title: Tip for using print
 ---
 
-When you type an opening bracket `(` or opening apostrophe `'` the code editor will automatically add a closing bracket `)` or closing apostrophe`'`:
+When you type an opening bracket `(` the code editor will automatically add a closing bracket `)` 
+This also happens when you type an opening apostrophe `'`.
 
 --- /collapse ---
 
@@ -67,15 +67,14 @@ title: Typing special characters on a UK or US keyboard
 ---
 
 On a UK or US keyboard, the left `(` and right `)` round brackets are on the <kbd>9</kbd> and <kbd>0</kbd> keys. To type a left round bracket, hold down the <kbd>Shift</kbd> key (next to <kbd>Z</kbd>) and then tap <kbd>9</kbd>.
-The single quote `'` is on the same row as the <kbd>L</kbd> key, just before the <kbd>Enter</kbd> key.
+The single quote `'` is on the same row as the <kbd>L</kbd> key.
 The comma `,` is next to the <kbd>M</kbd>.
 
 --- /collapse ---
 
 --- task ---
 
-**Test:** Click on the **Run** button to run your code which will output on the right of the code editor:
-
+**Test:** Click on the **Run** button. Your code which will output in the Text output area.
 ![The Run icon highlighted with 'Hello' showing in the output area. ](images/run_hello.png) 
 
 --- /task ---

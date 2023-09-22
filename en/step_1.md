@@ -4,7 +4,7 @@
 
 ## You will make
 
-Find out how to display text and numbers in Python by writing a simple program that uses emojis 😃.
+Find out how to display text and numbers in Python. Write a simple program that uses emojis 😃.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Emoji**</span> means 'picture word' in Japanese. They are small colourful images 🥰.
@@ -22,9 +22,9 @@ Find out how to display text and numbers in Python by writing a simple program t
 
 Click on the **Run** button and read the output.
 
-  When you are asked, type in a number and tap <kbd>Enter</kbd>. 
+  Type in a number and tap <kbd>Enter</kbd>. 
 
-Can you see how your answers are used?
+How your answers are used?
 
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/hello-world-solution" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe>

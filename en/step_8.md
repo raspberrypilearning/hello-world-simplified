@@ -18,7 +18,6 @@ Add more `print` lines to your code. Here are some sentence starters that you ca
 --- code ---
 ---
 language: python
-filename: main.py
 line_numbers: true
 line_number_start: 29
 line_highlights: 30-32
@@ -36,7 +35,7 @@ print('I\'d like to make ... with', python)
 --- collapse ---
 
 ---
-title: More print tips
+title: print and comment tips
 ---
 
 **Tip:** Each use of `print` adds a line inbetween. 
@@ -52,7 +51,9 @@ title: More print tips
 
 Which emoji would you choose in a message to a friend to cheer them up? 
 
-Scroll to the **emoji** section in the code editor to see the emojis and example variables that you can use. Copy the ones you choose and save them to a variable or add them directly to your code.
+Scroll to the **emoji** section in the code editor to see the emojis and example variables that you can use. 
+
+Copy the ones you choose or add them to a variable in your code.
 
 You can add more emojis to the **emoji** section. Use this [emoji list](https://unicode.org/emoji/charts/full-emoji-list.html){:target="_blank"} to find the ones you want. 
 
