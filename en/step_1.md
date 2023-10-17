@@ -4,7 +4,7 @@
 
 ## You will make
 
-Find out how to display text and numbers in Python. Write a simple program that uses emojis 😃.
+Find out how to display text and numbers in Python. Write a simple program that uses emojis 🙌 🙌🏼 🙌🏽 🙌🏾 🙌🏿.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Emoji**</span> means 'picture word' in Japanese. They are small colourful images 🥰.
