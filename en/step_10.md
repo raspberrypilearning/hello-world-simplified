@@ -57,7 +57,7 @@ hobbies()  # Calls the hobbies function
 title: Completed project
 ---
 
-You can view the [completed project here](https://editor.raspberrypi.org/en/projects/hello-world-solution){:target="_blank"}.
+You can view the [completed project here](https://staging-editor.raspberrypi.org/en/projects/hello-world-solution-simple){:target="_blank"}.
 
 --- /collapse ---
 
