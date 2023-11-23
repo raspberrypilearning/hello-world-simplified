@@ -1,23 +1,23 @@
-## Using date and time
+## Use date and time
 
 The line of code `from datetime import *` includes a library with helpful functions to get the current date and time.
 
 --- task ---
 
-Add another line to your code to `print` the current date and time.
+Add another line to your code to `print()` the current date and time.
 
-Get the current date and time by using the `now()` function from the `datetime` library:
+To get the current date and time, use the `now()` function from the `datetime` library:
 
 --- code ---
 ---
 language: python
 line_numbers: true
-line_number_start: 20
-line_highlights: 22
+line_number_start: 21
+line_highlights: 23
 ---
 
-print(python, 'is very good at maths!')    
-print(230 * 5782 ** 2 / 23781)  # Print the result of the sum     
+print(python, 'is very good at maths!')
+print(230 * 5782 ** 2 / 23781)  # Print the result of the sum
 print('The date and time is', datetime.now())  # Print the current date and time
  
 --- /code ---
@@ -27,16 +27,16 @@ print('The date and time is', datetime.now())  # Print the current date and time
 --- collapse ---
 
 ---
-title: Changing text size on the editor
+title: How to change text size in the Code Editor
 ---
 
-On the code editor, you might find the text too big or too small to read. You can easily change these settings to suit your preference. 
+In the Code Editor, you might find the text too big or too small to read. You can easily change these settings.
 
-**Tip:** Click on the **Settings menu** (the icon next to the Save button) in the top-right of your code editor. Then click on any of the **Text Size** buttons to change the size of the text. 
+Click on the **Settings** menu on the top right-hand side of the Code Editor (next to the **Save** button). Then, click any of the **Text Size** buttons to change the size of the text.
 
-![The code editor with the settings menu expanded, to show the Colour Mode and Text Size options.](images/full_screen.png)
+![The Code Editor with the Settings menu open, showing the Colour Mode and Text Size options.](images/full_screen.png)
 
-You can also switch between colour modes, click on the **Light & Dark** buttons to see the changes.
+You can also switch between colour modes. Click the **Light** and **Dark** buttons to see the changes.
 
 --- /collapse ---
 
@@ -44,7 +44,7 @@ You can also switch between colour modes, click on the **Light & Dark** buttons 
 
 **Test:** Run your code two or three times to see the time update.
 
-**Debug:** Check that you have a fullstop `.` between `datetime` and `now`. Check all the punctuation carefully.
+**Debug:** Check that you have a full stop `.` between `datetime` and `now()`. Check all the punctuation carefully.
 
 --- /task ---
 

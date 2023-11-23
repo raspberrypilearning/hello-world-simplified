@@ -11,7 +11,7 @@ Have fun!
 legend: Question 1 of 3
 ---
 
-This code sets the `world` variable to contain the text '🌍🌎🌏' (the three different world emoji):
+This code sets the `world` variable to contain the text '🌍🌎🌏' (the three different world emojis):
 
 --- code ---
 ---
@@ -22,9 +22,9 @@ world = '🌍🌎🌏'
 
 --- /code ---
 
-Which code correctly uses the `world` variable and outputs Hello 🌍🌎🌏?
+Which code correctly uses the `world` variable and outputs `Hello 🌍🌎🌏`?
 
-![The output area from the code editor with Hello 🌍🌎🌏 showing.](images/quiz1.png)
+![The Text Output area in the Code Editor showing the word "Hello" followed by three different world emojis.](images/quiz1.png)
 
 --- choices ---
 
@@ -41,7 +41,7 @@ output('Hello' world)
 
  --- feedback ---
 
- Not quite, `output` is not the way to output messages to the screen.
+ Not quite. `output()` is not the way to output messages to the screen.
 
  --- /feedback ---
 
@@ -59,7 +59,7 @@ print('Hello' world)
 
  --- feedback ---
 
- Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
+ Not quite. In Python, `print()` outputs messages to the screen, but something is missing in this example.
 
  --- /feedback ---
 
@@ -76,7 +76,7 @@ print('Hello', world)
 
  --- feedback ---
 
- That's correct, in Python `print` outputs messages to the screen. The text output is inside single quotes `'` , a comma separates the two items and provides a space, then the `world` variable is called, which stores the earth emoji 🌍🌎🌏, like in your project.
+ That's correct. In Python, `print()` outputs messages to the screen. The text output is inside single quotes `'`, a comma separates the two items and provides a space, and then the `world` variable is called, which stores the Earth emojis 🌍🌎🌏, like in your project.
 
  --- /feedback ---
 
@@ -93,7 +93,7 @@ print(Hello, world)
 
  --- feedback ---
 
-  Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
+  Not quite. In Python, `print()` outputs messages to the screen, but something is missing in this example.
 
  --- /feedback ---
 

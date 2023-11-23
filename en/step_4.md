@@ -1,14 +1,14 @@
-## Calculating sums
+## Do sums
 
 <div style="display: flex; flex-wrap: wrap">
 <div>
 
-![The text output area with five printed lines showing new sum and current date outputs.](images/sums_dates.png){:width="300px"} 
+![The Text Output area showing five printed lines including new sum and current date and time outputs.](images/sums_dates.png){:width="300px"} 
 
 </div>
 </div>
 
-In Python you can work with numbers and dates. You can use arithmetic operators to do sums:
+In Python, you can work with numbers and dates. You can use arithmetic operators to do sums:
 
 | + | add |   
 | - | subtract |   
@@ -20,21 +20,21 @@ In Python you can work with numbers and dates. You can use arithmetic operators 
 
 --- task ---
 
-Add another two `print()` lines to your code including a sum for Python to calculate:
+Add two more `print()` lines to your code including a sum for Python to do:
 
-**Tip:** To get a `*` symbol press <kbd>Shift</kbd> and <kbd>8</kbd> at the same time.
+**Tip:** To get an `*` symbol, press the <kbd>Shift</kbd> and <kbd>8</kbd> keys at the same time.
 
 --- code ---
 ---
 language: python
 line_numbers: true
-line_number_start: 18
-line_highlights: 20-21
+line_number_start: 19
+line_highlights: 21-22
 ---
 
-print('Hello', world)   
-print('Welcome to', python)   
-print(python, 'is very good at maths!')   
+print('Hello', world)
+print('Welcome to', python)
+print(python, 'is very good at maths!')
 print(230 * 5782 ** 2 / 23781)  # Print the result of the sum
 
 --- /code ---
@@ -44,16 +44,16 @@ print(230 * 5782 ** 2 / 23781)  # Print the result of the sum
 --- collapse ---
 
 ---
-title: Tip on using comments
+title: Comments
 ---
 
-Setences beginning with a `#` are <span style="color: #0faeb0">**comments**</span>. You don't need to type the comments, they are just there to help you understand the code.
+Sentences beginning with `#` are **comments**. You do not need to type the comments — they are just there to help you understand the code.
 
 --- /collapse ---
 
 --- task ---
 
-**Test:** Run your code. You should see the sums calculated and output.
+**Test:** Run your code. You should see the result of the sum be output.
 
 **Debug:**
 
@@ -62,7 +62,7 @@ Setences beginning with a `#` are <span style="color: #0faeb0">**comments**</spa
 title: I have a syntax error
 ---
 
-Make sure that you have added a comma `,` between the items in `print()` and that you have spelled `python` correctly.
+Make sure you have added a comma `,` between the items in `print()` and you have spelled `python` correctly.
 
 --- /collapse ---
 

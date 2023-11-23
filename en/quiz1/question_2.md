@@ -6,7 +6,7 @@ legend: Question 2 of 3
 
 Which of these function definitions is correct and will print `I can code` when called? 
 
-![The code editor with output area showing `I can code`.](images/quiz2.png)
+![The Text Output area in the Code Editor showing the words "I can code".](images/quiz2.png)
 
 --- choices ---
 
@@ -24,7 +24,7 @@ def awesome():
 
  --- feedback ---
 
-That's correct, calling this function will print `I can code`. You spotted that functions need `(` `)` brackets and a `:` in the function definition, and that all code to be run when that function is called must be indented. 
+That's correct. Calling this function will print `I can code`. You noticed that functions need brackets `(` `)` and a colon `:` in the function definition, and that all code to be run when that function is called must be indented.
 
  --- /feedback ---
 
@@ -42,7 +42,7 @@ print('I can code')
 
  --- feedback ---
 
- Not quite, the layout in this example would cause an error. 
+ Not quite. The layout in this example would cause an error. 
 
  --- /feedback ---
 
@@ -60,7 +60,7 @@ def awesome()
 
  --- feedback ---
 
-Not quite, there is something missing from the function definition that woud cause an error.
+Not quite. There is something missing from the function definition that would cause an error.
 
  --- /feedback ---
 

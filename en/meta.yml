@@ -1,7 +1,7 @@
 ---
 title: "Hello \U0001F30D\U0001F30E\U0001F30F simplified"
 hero_image: images/banner.png
-description: Write an interactive Python project that uses emoji
+description: Write an interactive Python project that uses emojis
 meta_title: Python coding projects for kids and teens | Hello world
 meta_description: Learn Python with the Raspberry Pi Foundation. Make an interactive Python coding project that uses emojis.
 version: 4
@@ -12,10 +12,10 @@ steps:
   - title: You will make
   - title: Say hello
   - title: Print variables
-  - title: Calculating sums
+  - title: Do sums
     completion:
       - engaged
-  - title: Using date and time
+  - title: Use date and time
   - title: Roll a dice
   - title: Use an emoji
   - title: Sentence starter

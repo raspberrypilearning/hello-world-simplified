@@ -4,18 +4,18 @@
 
 <div>
 
-![The code editor output area showing the two printed lines of text and emojis.](images/say_hello.png){:width="200px"}
+![The Code Editor Text Output area showing the word "Hello" followed by three world emojis, then the words "Welcome to Python" followed by a snake emoji.](images/say_hello.png){:width="200px"}
 
 </div>
 </div>
 
 --- task ---
 
-Open the [Hello 🌍🌎🌏 starter project](https://editor.raspberrypi.org/en/projects/hello-world-starter){:target="_blank"}. The code editor will open in another browser tab.
+Open the [Hello 🌍🌎🌏 starter project](https://editor.raspberrypi.org/en/projects/hello-world-starter){:target="_blank"}. The Code Editor will open in another browser tab.
 
-![The code editor with project starter code on the left in the code area. On the right is the blank output area.](images/starter_project.png)
+![The Code Editor with project starter code in the code area on the left. On the right is the blank Text Output area.](images/starter_project.png)
 
-If you have a Raspberry Pi account, click on the **Save** button to save a copy to your **Projects**.
+If you have a Raspberry Pi account, click the **Save** button to save a copy to your **Projects**.
 
 --- /task ---
 
@@ -26,7 +26,7 @@ In Python, `print()` outputs text (words or numbers) to the screen.
 
 --- task ---
 
-Find the `# Put code to run below here` line.
+Find the line `# Put code to run under here`.
 
 The flashing `|` is the cursor. It shows where you will type.
 
@@ -40,11 +40,11 @@ Type the code to `print()` Hello to the screen:
 ---
 language: python
 line_numbers: true
-line_number_start: 17
-line_highlights: 18
+line_number_start: 18
+line_highlights: 19
 ---
 
-# Put code to run under here    
+# Put code to run under here
 print('Hello')
 
 --- /code ---
@@ -56,26 +56,27 @@ print('Hello')
 title: Tip for using print
 ---
 
-When you type an opening bracket `(` the code editor will automatically add a closing bracket `)` 
-This also happens when you type an opening apostrophe `'`.
+When you type an opening bracket `(`, the Code Editor will automatically add a closing bracket `)`. This also happens when you type an opening quote `'`.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Typing special characters on a UK or US keyboard
+title: How to type special characters on a UK or US keyboard
 ---
 
-On a UK or US keyboard, the left `(` and right `)` round brackets are on the <kbd>9</kbd> and <kbd>0</kbd> keys. To type a left round bracket, hold down the <kbd>Shift</kbd> key (next to <kbd>Z</kbd>) and then tap <kbd>9</kbd>.
+On a UK or US keyboard, the left `(` and right `)` round brackets are on the <kbd>9</kbd> and <kbd>0</kbd> keys. To type a left round bracket, hold down the <kbd>Shift</kbd> key (next to <kbd>Z</kbd>) and press <kbd>9</kbd>.
+
 The single quote `'` is on the same row as the <kbd>L</kbd> key.
-The comma `,` is next to the <kbd>M</kbd>.
+
+The comma `,` is next to the <kbd>M</kbd> key.
 
 --- /collapse ---
 
 --- task ---
 
-**Test:** Click on the **Run** button. Your code which will output in the Text output area.
-![The Run icon highlighted with 'Hello' showing in the output area. ](images/run_hello.png) 
+**Test:** Click the **Run** button. Your code will output in the Text Output area.
+![The Code Editor with the word "Hello" in the Text Output area.](images/run_hello.png)
 
 --- /task ---
 
@@ -85,9 +86,9 @@ The comma `,` is next to the <kbd>M</kbd>.
 title: Debug
 ---
 
-If you get an error then check your code really carefully. Check there are single quotes around `Hello` so Python knows it is meant to be text.
+If you get an error, check your code really carefully. Check there are single quotes around `Hello` so Python knows it is meant to be text.
 
-![The Code Editor with missing single quotes and error 'NameError: name 'Hello' is not defined on line 18 in main.py.](images/hello_error.png)
+![In the Code Editor, the code area contains the line print(Hello) with no single quotes, and the error "NameError: name 'Hello' is not defined on line 18 of main.py" is shown in the output area.](images/hello_error.png)
 
 --- /collapse ---
 

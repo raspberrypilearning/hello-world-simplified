@@ -18,7 +18,7 @@ def two_dice():
 
 Which code will call the function to run it?
 
-![The code editor with output area showing two randomly generated numbers.](images/quiz3.png)
+![The Text Output area in the Code Editor showing two randomly generated numbers listed.](images/quiz3.png)
 
 --- choices ---
 
@@ -37,7 +37,7 @@ def two_dice():
 
  --- feedback ---
 
- No, this is the code to define the function, but it does not run the function. You'll need to use different code to call it.
+ No, this is the code to define the function, but it does not run the function. You need to use different code to call the function.
 
  --- /feedback ---
 
@@ -53,7 +53,7 @@ two_dice
 
  --- feedback ---
 
-Close! `two_dice` is the name of the function, but to call it you need more than just the name.
+Close! `two_dice` is the name of the function, but to call it, you need more than just the name.
 
  --- /feedback ---
 
@@ -70,7 +70,7 @@ two_dice[]
 
  --- feedback ---
 
- Not quite, think about they type of brackets you used to call the functions in your project. 
+ Not quite. Think about the type of brackets you used to call the functions in your project.
 
  --- /feedback ---
 
@@ -87,7 +87,7 @@ two_dice()
 
  --- feedback ---
 
- That's correct, using the function name followed by `(` `)` brackets will call the function.
+ That's correct. Using the function name followed by brackets `(` `)` will call the function.
 
  --- /feedback ---
 
