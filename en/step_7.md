@@ -16,7 +16,7 @@ line_highlights: 18-19
 
 # Function definitions
 def roll_dice():
-    roll = randint(1, 6)  # Generate a random number between 1 and 6 and store it in the variable 'roll'
+    roll = randint(1, 6)  # Generate a random number between 1 and 6 and store it in the 'roll' variable
     print('You rolled a', roll, fire * roll)  # Repeat the fire emoji to match the random dice roll
 
 --- /code ---

@@ -11,7 +11,7 @@
 
 --- task ---
 
-Open the [Hello 🌍🌎🌏 starter project](https://editor.raspberrypi.org/en/projects/hello-world-starter-simple){:target="_blank"}. The Code Editor will open in another browser tab.
+Open the [Hello 🌍🌎🌏 starter project](https://staging-editor.raspberrypi.org/en/projects/hello-world-starter-simple){:target="_blank"}. The Code Editor will open in another browser tab.
 
 ![The Code Editor with project starter code in the code area on the left. On the right is the blank Text Output area.](images/starter_project.png)
 

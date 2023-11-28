@@ -8,7 +8,7 @@ In Python, you **call** a **function()** to perfom an action. You have already u
 </div>
 <div>
 
-![The Text Output area with additional lines to ask the user to input the number of sides for their dice, and the response with the random number.](images/roll_dice.png){:width="300px"}
+![The Text Output area showing a prompt for the user to input the number of sides for their dice. The output from the function being called is then shown.](images/roll_dice.png){:width="300px"}
 
 </div>
 </div>
@@ -20,9 +20,9 @@ In Python, you **call** a **function()** to perfom an action. You have already u
 
 Functions need to be defined before you can call them. Look for the comment in the **main.py** file that says `# Function definitions`.
 
-From the `random` library, define a new function called `roll_dice()` that uses the `randint()` function. 
+Define a new function called `roll_dice()` that uses the `randint()` function (from the `random` library).  
 
-Generate a random 'integer' (whole number) from 1 to 6 and output it to the screen.
+Your function needs to generate a random 'integer' (whole number) from 1 to 6 and output it to the screen.
 
 --- code ---
 ---
