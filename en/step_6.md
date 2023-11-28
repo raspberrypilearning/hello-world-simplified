@@ -89,7 +89,6 @@ To use a function, you need to **call** it in the code. Go to the end of your co
 --- code ---
 ---
 language: python
-filename: main.py
 line_numbers: true
 line_number_start: 25
 line_highlights: 27

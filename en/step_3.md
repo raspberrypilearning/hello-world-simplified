@@ -17,7 +17,6 @@ Change your code to also `print()` the contents of the `world` variable:
 --- code ---
 ---
 language: python
-filename: main.py
 line_numbers: true
 line_number_start: 18
 line_highlights: 19
@@ -58,7 +57,7 @@ Make sure you have added a comma between the items in `print()` and you have spe
 
 This example is missing the comma `,`. It is small but very important!
 
-![In the Code Editor, the code area contains the line print('Hello'world) with no comma, and the error "SyntaxError: bad input on line 18 of main.py" is shown in the output area.](images/comma_error.png)
+![In the Code Editor, the code area contains the line print('Hello'world) with no comma, and the error "SyntaxError: bad input on line 19 of main.py" is shown in the output area.](images/comma_error.png)
 
 
 --- /collapse ---
@@ -70,7 +69,6 @@ This example is missing the comma `,`. It is small but very important!
 --- code ---
 ---
 language: python
-filename: main.py
 line_numbers: true
 line_number_start: 19
 line_highlights: 20

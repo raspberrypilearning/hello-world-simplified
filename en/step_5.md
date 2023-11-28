@@ -1,6 +1,6 @@
 ## Use date and time
 
-The line of code `from datetime import *` includes a library with helpful functions to get the current date and time.
+The line of code `from datetime import` includes a library with helpful functions to get the current date and time.
 
 --- task ---
 

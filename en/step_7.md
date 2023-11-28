@@ -9,7 +9,6 @@ Change your code to save the value returned by `randint()` in a variable called 
 --- code ---
 ---
 language: python
-filename: main.py
 line_numbers: true
 line_number_start: 16
 line_highlights: 18-19
@@ -50,7 +49,6 @@ When you get input from the user, Python treats it as text. But `randint()` need
 --- code ---
 ---
 language: python
-filename: main.py
 line_numbers: true
 line_number_start: 16
 line_highlights: 18-20

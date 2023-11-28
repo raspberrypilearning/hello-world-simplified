@@ -11,7 +11,7 @@
 
 --- task ---
 
-Open the [Hello 🌍🌎🌏 starter project](https://staging-editor.raspberrypi.org/en/projects/hello-world-starter-simple){:target="_blank"}. The Code Editor will open in another browser tab.
+Open the [Hello 🌍🌎🌏 starter project](https://editor.raspberrypi.org/en/projects/hello-world-starter-simple){:target="_blank"}. The Code Editor will open in another browser tab.
 
 ![The Code Editor with project starter code in the code area on the left. On the right is the blank Text Output area.](images/starter_project.png)
 
@@ -88,7 +88,7 @@ title: Debug
 
 If you get an error, check your code really carefully. Check there are single quotes around `Hello` so Python knows it is meant to be text.
 
-![In the Code Editor, the code area contains the line print(Hello) with no single quotes, and the error "NameError: name 'Hello' is not defined on line 18 of main.py" is shown in the output area.](images/hello_error.png)
+![In the Code Editor, the code area contains the line print(Hello) with no single quotes, and the error "NameError: name 'Hello' is not defined on line 19 of main.py" is shown in the output area.](images/hello_error.png)
 
 --- /collapse ---
 

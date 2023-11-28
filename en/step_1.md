@@ -40,4 +40,3 @@ How is your answer used?
 ![Example output in the Code Editor.](images/showcase_static.png){:width="640px"}
 
 --- /print-only ---
-![](http://code.org/api/hour/begin_codeclub_hworld.png)

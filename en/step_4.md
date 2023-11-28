@@ -53,7 +53,7 @@ Sentences beginning with `#` are **comments**. You do not need to type the comme
 
 --- task ---
 
-**Test:** Run your code. You should see the result of the sum be output.
+**Test:** Run your code. Python will do the sum and ouput the result.
 
 **Debug:**
 
