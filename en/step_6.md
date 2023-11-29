@@ -50,8 +50,8 @@ The line under `def roll_dice():` is **indented**. To indent code, use the <kbd>
 
 In Python:
   - **functions**, defined with `def`, are like 'My Blocks' in Scratch
-  - `randint` is like 'random' in Scratch
-  - `input` is like 'ask' in Scratch
+  - `randint()` is like 'random' in Scratch
+  - `input()` is like 'ask' in Scratch
 
 **Tip:** The underscore `_` is used between words in variable and function names in Python to make them easier to read. You cannot use a space.
 
@@ -74,7 +74,7 @@ title: I have a syntax error
 
 - Check that the line under `def roll_dice():` is indented. It is really common to get this wrong in Python, so make sure to check.
 
-![In the code area in the Code Editor, the line of code inside the roll_dice() function is not indented. In the output area, the error "SyntaxError: bad input on line 17 of main.py" is shown.](images/indent_error.png)
+![In the code area in the Code Editor, the line of code inside the roll_dice() function is not indented. In the output area, the error "SyntaxError: bad input on line 18 of main.py" is shown.](images/indent_error.png)
 
 --- /collapse ---
 
