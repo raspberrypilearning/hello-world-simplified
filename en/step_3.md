@@ -57,7 +57,7 @@ Make sure you have added a comma between the items in `print()` and you have spe
 
 This example is missing the comma `,`. It is small but very important!
 
-![In the Code Editor, the code area contains the line print('Hello'world) with no comma, and the error "SyntaxError: bad input on line 19 of main.py" is shown in the output area.](images/comma_error.png)
+![In the Code Editor, the code area contains the line print('Hello' world) with no comma, and the error "SyntaxError: bad input on line 19 of main.py" is shown in the output area.](images/comma_error.png)
 
 
 --- /collapse ---

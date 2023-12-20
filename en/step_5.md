@@ -32,9 +32,9 @@ title: How to change text size in the Code Editor
 
 In the Code Editor, you might find the text too big or too small to read. You can easily change these settings.
 
-Click on the **Settings** icon on the left-hand side of the Code Editor (next to the **Images** icon). Then, click any of the **Text Size** buttons to change the size of the text.
+Click on the **Settings** icon on the left-hand side of the Code Editor (next to the **Images** icon). Then, click any of the **Text size** buttons to change the size of the text.
 
-![The Code Editor with the Settings menu open, showing the Colour Mode and Text Size options.](images/settings_menu.png)
+![The Settings menu open in the Code Editor, showing the Theme and Text size options.](images/settings_menu.png)
 
 You can also switch between themes. Click the **Light** and **Dark** buttons to see the changes.
 

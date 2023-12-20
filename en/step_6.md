@@ -53,7 +53,7 @@ In Python:
   - `randint()` is like 'random' in Scratch
   - `input()` is like 'ask' in Scratch
 
-**Tip:** The underscore `_` is used between words in variable and function names in Python to make them easier to read. You cannot use a space.
+The underscore `_` is used between words in variable and function names in Python to make them easier to read. You cannot use a space.
 
 --- /collapse ---
 

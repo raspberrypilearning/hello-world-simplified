@@ -16,7 +16,7 @@ line_highlights: 18-19
 
 # Function definitions
 def roll_dice():
-    roll = randint(1, 6)  # Generate a random number between 1 and 6 and store it in the 'roll' variable
+    roll = randint(1, 6)  # Generate a random number between 1 and 6 and store it in the roll variable
     print('You rolled a', roll, fire * roll)  # Repeat the fire emoji to match the random dice roll
 
 --- /code ---
@@ -69,7 +69,7 @@ To print an apostrophe `'` in a word like `That's`, put a backslash `\` before i
   
 --- task ---
 
-**Test:** Run your code. When the program reaches the `input()` line, it will wait for you to enter a response before continuing. Type your response and then press <kbd>Enter</kbd>. This will allow the program to collect your response. Try it again with a different `input` number.
+**Test:** Run your code. When the program reaches the `input()` line, it will wait for you to enter a response before continuing. Type your response and then press <kbd>Enter</kbd>. This will allow the program to collect your response. Try it again with a different `max` (input) number.
 
 --- /task ---
 
